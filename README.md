@@ -1,2 +1,2 @@
-# teclob-preview
-Prints do Projeto
+# TecBlog Preview
+Aaqui se localiza os Prints do Projeto TecBLog
